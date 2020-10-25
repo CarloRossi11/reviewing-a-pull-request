@@ -1,7 +1,7 @@
-## Welcome to GitHub Games
+## Welcome to tigghhtt game of Tetris
 
 A project based learning activity for people who are getting started with Git and GitHub.
-
+You can play the game at: https://CarloRossi11.github.io/github-games/
 To play the game:
 1. Go to the **Settings** tab of this repository.
 1. Scroll down to the section titled _GitHub Pages_
